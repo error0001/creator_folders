@@ -1,0 +1,18 @@
+the creator of folders 
+version 0.1
+
+How does it use?
+
+1. Copy creator.py into current folder of projects
+2. Let start creator.py in the cmd or powershell
+3. Write next: python.exe creator.py
+4. Write a name of project
+5. Well done, the standart a folders was created
+
+project_name/1_projects/current
+project_name/1_projects/old
+project_name/2_documents
+project_name/3_cs_structs
+project_name/4_uml_struct
+project_name/5_addon_soft
+project_name/6_other
