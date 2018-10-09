@@ -7,6 +7,13 @@ def CreateStrProj():
     if not os.path.exists('./' + inNameProj + '/'):
       os.makedirs(inNameProj)
     os.chdir(inNameProj)
+    #walk in the directory, for future
+    #*********************************
+    #from_dir = input()  # get dir
+    #print("***************************************")
+    #for crtgs in os.walk(from_dir):  # Generate a cortages
+	  #  print (crtgs)                  # and print whole
+    #print("***************************************")
     os.makedirs('1_poject')
     os.makedirs('2_documentation')
     os.makedirs('3_cs_structs')
